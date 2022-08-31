@@ -1,0 +1,21 @@
+body {
+    background-color: #f2f2f2 !important;
+}
+
+.conteiner p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.input-login:focus {
+    border-color: gray;
+    box-shadow: none;
+}
+
+.input-login {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    border-bottom-width: 2px;
+}
